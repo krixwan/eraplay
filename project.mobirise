@@ -406,7 +406,7 @@
             },
             ".card-title": {
               "color": "#cc2952",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".b-descr": {
               "color": "#cccccc",
