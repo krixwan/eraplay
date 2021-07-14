@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#343333",
         "#2aba1f",
         "#ff0040",
         "#030303",
         "#a10ab4",
         "#1eaf13",
-        "#ba29cc",
-        "#34cc29"
+        "#ba29cc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -617,7 +617,7 @@
               }
             },
             "H2": {
-              "color": "#cc2952",
+              "color": "#343333",
               "text-align": "left"
             }
           },
